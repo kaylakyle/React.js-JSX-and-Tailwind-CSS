@@ -1,5 +1,5 @@
 ## GirlyApp — React + Tailwind Project
-## link - girlyhub.netlify.app
+ girlyhub.netlify.app
 GirlyApp is a simple, aesthetic, and responsive React application built to demonstrate:
 
 Component-based architecture
