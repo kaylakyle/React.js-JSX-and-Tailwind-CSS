@@ -107,7 +107,7 @@ girlyapp/
 ## 🖼️ Preview
 
 ### Light Mode ✨
-![GirlyApp Light Mode](./girly 1.jpg)
+![GirlyApp Light Mode](girly 1.jpg)
 
 ### Dark Mode 🌙
 ![GirlyApp Dark Mode](./girly 2.jpg)
