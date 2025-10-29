@@ -110,7 +110,7 @@ girlyapp/
 ![GirlyApp Light Mode](https://github.com/kaylakyle/React.js-JSX-and-Tailwind-CSS/blob/main/girly%201.jpg?raw=true)
 
 ### Dark Mode 🌙
-![GirlyApp Dark Mode](./girly 2.jpg)
+![GirlyApp Dark Mode](https://github.com/kaylakyle/React.js-JSX-and-Tailwind-CSS/blob/main/girly%202.jpg?raw=true)
 
 
 
